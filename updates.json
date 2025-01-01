@@ -1,10 +1,11 @@
 {
-  "Version": "1.0.0",
-  "ReleaseDate": "2024-01-20",
+  "Version": "1.0.1",
+  "ReleaseDate": "2025-01-02",
   "Changes": [
-    "Initial release"
+    "Testing auto-update",
+    "Release soon"
   ],
-  "DownloadUrl": "",
-  "FileSize": 0,
-  "Checksum": ""
-} 
+  "DownloadUrl": "https://github.com/Lazerus-Exploit/Lazerus/releases/download/v1.0.1/LazerusRewrite-1.0.1.zip",
+  "FileSize": 8237865,
+  "Checksum": "c15b21aff35be77359264f182df9103fdf40402198c599b1bdb4be45f052deb8"
+}
